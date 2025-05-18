@@ -1,0 +1,3 @@
+TEST_A
+AAA_NO
+BBB_HAVE
